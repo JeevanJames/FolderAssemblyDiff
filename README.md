@@ -8,7 +8,8 @@ This is what is included (or planned) in the repo:
 * A [Cake Build](https://cakebuild.net/) task
 
 ## Getting started
-To run Plugins Diff, you will need to have the [.NET Core SDK](https://dotnet.microsoft.com/download) installed.
+To run Plugins Diff, you will need the following installed:
+* [.NET Core SDK](https://dotnet.microsoft.com/download): The tool uses the `dotnet` CLI tools to perform its core tasks.
 
 ### Class library
 TBD
